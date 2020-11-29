@@ -1,0 +1,25 @@
+
+Bochs BIOS - build: 02/13/08
+$Revision: 1.194 $ $Date: 2007/12/23 19:46:27 $
+Options: apmbios pcibios eltorito rombios32
+
+ata0 master: Generic 1234 ATA-6 Hard-Disk (  60 MBytes)
+
+Booting from Floppy...
+
+----------------------------
+|Welcome to OS! Suyifan ...|
+----------------------------
+
+
+NOW enter the SETUP
+
+Cursor POS:1800
+Memory Size:3C00
+Partition table ok.
+39065/62000 free blocks
+19520/20666 free inodes
+3450 buffers = 3532800 bytes buffer space
+Free mem: 12582912 bytes
+ Ok.
+[/usr/root]# ß
